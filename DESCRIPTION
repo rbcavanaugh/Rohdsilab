@@ -1,0 +1,28 @@
+Package: Rohdsilab
+Type: Package
+Title: Skeleton Package for installation of R packages on NU OHDSILAB Infrastructure
+Version: 0.1.0
+Author: Rob Cavanaugh
+Maintainer: Rob Cavanaugh <r.cavanaugh@northeastern.edu>
+Description: Skeleton Package for installation of R packages on NU OHDSILAB Infrastructure
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+imports:
+  tidyverse,
+  renv,
+  cli,
+  devtools,
+  remotes,
+  pak,
+  glue,
+  usethis,
+  janitor,
+  DatabaseConnector,
+  DBI,
+  keyring,
+  CDMConnector,
+  OHDSI/CohortGenerator,
+  OHDSI/CohortDiagnostics,
+  OHDSI/FeatureExtraction,
+  OHDSI/ROhdsiWebApi
