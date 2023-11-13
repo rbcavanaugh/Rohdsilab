@@ -3,7 +3,7 @@
 
 ```
 install.packages("pak")
-pak::install_pkg("roux-ohdsi/Rohdsilab")
+pak::pkg_install("roux-ohdsi/Rohdsilab")
 ```
 
 R package imports:
