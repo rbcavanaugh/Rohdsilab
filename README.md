@@ -1,6 +1,11 @@
 
 # Rohdsilab
 
+```
+install.packages("pak")
+pak::install_pkg("roux-ohdsi/Rohdsilab")
+```
+
 R package imports:
   - tidyverse,
   - renv,
