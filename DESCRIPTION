@@ -26,3 +26,5 @@ imports:
   OHDSI/CohortDiagnostics,
   OHDSI/FeatureExtraction,
   OHDSI/ROhdsiWebApi
+URL: https://github.com/rbcavanaugh/Rohdsilab
+BugReports: https://github.com/rbcavanaugh/Rohdsilab/issues
